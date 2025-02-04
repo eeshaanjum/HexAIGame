@@ -1,17 +1,10 @@
-/* Copyright 2012 David Pearson.
- * BSD License
- */
+
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.*;
 
-/**
- * The actual gameplay view, and associated AI methods.
- *
- * @author David Pearson
- */
 public class Panel extends JPanel {
 	private Graphics graph;
 	private BufferedImage image;
