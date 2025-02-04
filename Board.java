@@ -1,11 +1,11 @@
-/* Copyright 2012 David Pearson.
+/*
  * BSD License
  */
 
 /**
  * Provides various methods for manipulating a board.
  *
- * @author David Pearson
+ * 
  */
 public class Board {
 	/**
