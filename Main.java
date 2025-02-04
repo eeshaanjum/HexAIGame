@@ -1,14 +1,7 @@
-/* Copyright 2012 David Pearson.
- * BSD License
- */
 
 import javax.swing.JFrame;
 
-/**
- * Runs the application.
- *
- * @author David Pearson
- */
+
 public class Main {
 	/**
 	 * Main method. Creates a window.
