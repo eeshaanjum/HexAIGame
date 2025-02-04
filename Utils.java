@@ -1,15 +1,6 @@
-/* Copyright 2012 David Pearson.
- * BSD License.
- */
 
 import java.util.ArrayList;
 
-/**
- * Various utility functions that have no better home
- * 	in a language like Java.
- *
- * @author David Pearson
- */
 public class Utils {
 	/**
 	 * Checks if an ArrayList contains the given element.
