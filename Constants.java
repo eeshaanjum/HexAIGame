@@ -1,11 +1,11 @@
-/* Copyright 2012 David Pearson.
+/*
  * BSD License.
  */
 
 /**
  * Various constants used in the program
  *
- * @author David Pearson
+ *
  */
 public class Constants {
 	// Color constants. Test against these rather than their values.
