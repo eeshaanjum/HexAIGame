@@ -1,6 +1,4 @@
-/* Copyright 2012 David Pearson.
- * BSD License.
- */
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,11 +9,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-/**
- * An AI that uses Monte Carlo Tree Search to play Hex.
- *
- * @author David Pearson
- */
 public class MCAI extends AI {
 	private int aiplayer = 1;
 	private int minLen = 49;
