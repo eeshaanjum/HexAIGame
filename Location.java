@@ -1,14 +1,7 @@
-/* Copyright 2012 David Pearson.
- * BSD License.
- */
+
 
 import java.util.ArrayList;
 
-/**
- * Represents a location on a standard Hex board.
- *
- * @author David Pearson
- */
 public class Location {
 	public int x;
 	public int y;
